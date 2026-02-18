@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @TwoEazy
-- 👀 I’m interested in js,java,sql,vue,bash,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: HIM
-- ⚡ Fun fact: OSINT IS REAL
+- 👋 Hi, I'm @TwoEazy
+- 👀 I'm interested in JavaScript, Java, SQL, Vue.js, and Bash scripting
+- 💞️ I'm looking to collaborate on open-source projects and web development initiatives
+- 📫 How to reach me: Visit my GitHub profile or open an issue in one of my repositories
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Open Source Intelligence (OSINT) is a powerful tool for gathering publicly available information
 
 <!---
 TwoEazy/TwoEazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
