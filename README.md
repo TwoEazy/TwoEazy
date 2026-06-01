@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TwoEazy
-- 👀 I’m interested in js,java,sql,vue,bash,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in js,java,sql,vue,bash,c#,next.js,
+- 💞️ I’m looking to collaborate on blueteam projects and tools development
+- 📫 How to reach me cybersecurity@moaaz.be
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: OSINT IS REAL
 
